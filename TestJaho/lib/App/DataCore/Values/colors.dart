@@ -1,0 +1,33 @@
+import 'package:flutter/material.dart';
+
+const Color accentColor = Color(0xFF202025);
+const Color accentLightColor = Color(0xFFdaaa7b);
+const Color blueMBN = Color(0xFF5895aa);
+const Color green = Color(0xff00FF00);
+const Color gray21 = Color(0xff363636);
+const Color greyLight = Color(0xffA9AEAF);
+const Color white = Color(0xffFFFFFF);
+const Color yellowLight = Color(0xffd9cd96);
+const Color blueLight = Color(0xff009999);
+const Color approxApple = Color(0xff70ad47);
+const Color lightOrange = Color(0xffed7d31);
+const Color cyanBlue = Color(0xff4672c4);
+const Color lightMutedAzureBlue = Color(0xff5b9bd5);
+const Color paleCeruleanBlue = Color(0xff9FB7CC);
+const Color icebergBlue = Color(0xff7CA7CE);
+const Color lightGrey = Color(0xffd4d7da);
+const Color lightGold = Color(0xffFFF807);
+const Color darkGold = Color(0xffC9B037);
+const Color lightSilver = Color(0xffD7D7D7);
+const Color lightPlatinum = Color(0xff00ee97);
+const Color darkPlatinum = Color(0xff00c155);
+const Color lightDiamond = Color(0xffabcefa);
+const Color darkDiamond = Color(0xff506dd9);
+const Color grey95 = Color(0xfff2f2f2);
+const Color nero = Color(0xff1d1d1d);
+const Color casper = Color(0xffb2b7b8);
+const Color lightGray = Color(0xffDCDCDC);
+const Color blueLightW = Color(0xffd1eeee);
+const Color orange = Color(0xffff8000);
+const Color blue = Color(0xff0000FF);
+
