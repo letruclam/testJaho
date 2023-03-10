@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+** Run the project for the first time
+B1: run 'flutter pub get'
+B2: run 'flutter pub run intl_utils:generate'
+B3: run 'flutter pub run build_runner build --delete-conflicting-outputs'
+B4: Flutter run
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
